@@ -1,2 +1,2 @@
 # MachineLearning_project
-This is a Academic machine learning course assignment
+This is an Academic machine learning course assignment
